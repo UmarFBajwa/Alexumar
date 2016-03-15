@@ -9,3 +9,12 @@ margin-top: 10px;
 
 .responsibilities {font-size: .8em;
 }
+
+
+
+a:hover {
+    color: hotpink;
+}
+
+
+ol > li {color: red;}
